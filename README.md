@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studing on SHANGHAI MARITIME UNIVERSITY.
-- 🌱 My major is electrical engineering.
+## - 🔭 I’m currently studing on SHANGHAI MARITIME UNIVERSITY.
+## - 🌱 My major is electrical engineering.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
